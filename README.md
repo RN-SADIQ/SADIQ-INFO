@@ -1,34 +1,3 @@
-{
-  "name": "Sadiq",
-  "age": "0x0015",
-  "about": "Full-Stack Developer, App & Systems Enthusiast",
-  "email": "root@sadiq.is-a-dev",
-  "languages": [
-    "Python", "JavaScript", "TypeScript", "C", "C++", "Java", "Kotlin", "PHP", "Bash", "SQL"
-  ],
-  "web_development": [
-    "Node.js", "Laravel", "React.js", "Next.js", "HTML5", "CSS3", "Django", "Tailwind CSS"
-  ],
-  "app_development": [
-    "Android Development", "React Native", "Flutter", "Kotlin Multiplatform"
-  ],
-  "systems_and_tools": [
-    "Linux", "Termux", "Git", "Docker", "REST API", "MySQL", "MongoDB", "Asyncio"
-  ],
-  "status": "Building apps, shipping features, and creating future bugs",
-  "github": {
-    "profile_views": "4.9K",
-    "followers": "12",
-    "contributions": {
-      "2020-Present": "1,836"
-    },
-    "joined_at": "Oct 11, 2020"
-  }
-}
-
-
-
-
 <img align="right" alt="Hacking GIF" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> 
